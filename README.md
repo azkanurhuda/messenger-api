@@ -9,4 +9,4 @@ The challenge is make sure when you run `bundle exec rspec`, all result is green
 * Bundle v2.1.4
 
 ## Test Result
-![](pass_test.png)
+![](pass-test.png)
